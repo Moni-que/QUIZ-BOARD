@@ -6,6 +6,7 @@ function check(){
     var q3=document.quiz.Question3.value;
     var q4=document.quiz.Question4.value;
     var q5=document.quiz.Question5.value;
+    var lastparagraph=document.getElementById('lastparagraph');
 
     //writing if statements
     if (q1=="A tool that programmers use to record the output of their javascript programs."){a++}
@@ -14,6 +15,6 @@ function check(){
     if (q4=="looping"){a++}
     if (q5=="iLoveMe"){a++}
 
-        document.write(a);
+        lastparagraph.textContent=`${a}`;
 
 }
