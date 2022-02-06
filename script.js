@@ -20,7 +20,7 @@ function check(){
     quiz.style.display="none"
 
 
-        if(a>=4){
+        if(a>=3){
             lastparagraph.textContent=`Your score is ${a}.Excellent!`;
         
         }else {
