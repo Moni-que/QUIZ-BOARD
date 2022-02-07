@@ -21,10 +21,10 @@ function check(){
 
 
         if(a>=3){
-            lastparagraph.textContent=`Your score is ${a}.Excellent!`;
+            lastparagraph.textContent=`Your score is ${a}.This is Excellent!`;
         
         }else {
-            lastparagraph.textContent=`Your score is ${a}.poor`;
+            lastparagraph.textContent=`Your score is ${a}.This is poor.Please retake the test`;
         }
 
 
