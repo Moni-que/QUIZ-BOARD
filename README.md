@@ -32,10 +32,15 @@
 
 * JavaScript - Which was used to make web page interactive.
 
+* Figma - Which was used to design the website.
+
 ## Reference
 * Materialize CSS
 
 [Go Back to the top](#QUIZBOARD)
+
+* Figma
+https://www.figma.com/file/iJT2Ny4xA6QZ0hAE0wjlYw/Untitled?node-id=3%3A15
 
 ## Licence
 
